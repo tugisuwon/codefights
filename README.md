@@ -1,3 +1,3 @@
 # codefights
 Codefights challenge problems  
-Profile - www.codefights.com/tugisuwon
+Profile - https://codefights.com/profile/tugisuwon
